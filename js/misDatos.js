@@ -1,4 +1,4 @@
-import { nombre } from "/variables.js";
+import { nombre } from "./variables.js";
 
 let misDatos = (data) => {
   let datos = "";

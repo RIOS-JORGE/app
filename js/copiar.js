@@ -1,4 +1,4 @@
-import { tabla } from "/variables.js";
+import { tabla } from "./variables.js";
 
 let copiar = tabla.addEventListener("dblclick", function (id_elemento) {
   id_elemento.preventDefault();
