@@ -1,10 +1,10 @@
-import { urls } from "./variables";
-import { nombre } from "./variables.js";
-import { boton } from "./variables.js";
-import { tabla } from "./variables.js";
+import { urls } from "/variables";
+import { nombre } from "/variables.js";
+import { boton } from "/variables.js";
+import { tabla } from "/variables.js";
 
-import { misDatos } from "./misDatos.js";
+import { misDatos } from "/misDatos.js";
 
-import { copiar } from "./copiar.js";
+import { copiar } from "/copiar.js";
 
-import { llamar } from "./llamar.js";
+import { llamar } from "/llamar.js";
