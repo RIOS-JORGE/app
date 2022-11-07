@@ -2,7 +2,7 @@ const url =
   "https://opensheet.elk.sh/10yTEgfcI554YSpnWOLoqpJRRtFLc6SmL9dMwqXi3qbs/hoja1";
 
 const urls =
-  "https://opensheet.elk.sh/1LxfuEhP7Dt7yc2wGEvRp0zPJceotksL_CwE5G64h6s4/urls";
+  "https://opensheet.elk.sh/1dyJsYPrQSbs5crHN1sHoCDK3V66nZNrmRFLdVHxq1Vs/AM-DIGITAL";
 
 let nombre = document.querySelector("input");
 
