@@ -37,6 +37,7 @@ form button::first-letter{
 .divTabla{
   width: 100%;
   display: inline-table;
+  margin-bottom: 3rem;
 }
 
 .table{
