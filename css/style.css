@@ -5,6 +5,10 @@ body{
   height: 100%;
 }
 
+.div{
+  margin-top: 10rem;
+}
+
 img{
   display: block;
   width: 80%;
